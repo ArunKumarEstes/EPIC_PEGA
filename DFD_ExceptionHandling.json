@@ -1,0 +1,167 @@
+{
+   "CreatedBy":"????",
+   "Account":"PyGuid",
+   "RequestingTradingPartnerID":"TB7VPDP383DdgZvz",
+   "AssignedTradingPartnerID":"qKaIzYzpJKnp8Q7K",
+   "CaseType":"DroppedForDelivery",
+   "ServiceLevel":"Basic",
+   "Equipment":"Trailer",
+   "Mode":"LTL",
+   "PaymentTerm":"Outbound Prepaid",
+   "HotPriority":"",
+   "PickupNotes":"",
+   "DeliveryNotes":"",
+   "OrderRefs":{
+      "BOL":"EPTEST1",
+      "TrackingNumber":"",
+      "InvoiceNumber":"",
+      "PickupNumber":"2118804N",
+      "DeliveryNumber":"12345",
+      "PONumber":"W8962212000",
+      "SONumber":""
+   },
+   "OrderOrigin":{
+      "CompanyName":"THE HOME DEPOT 6006",
+      "Address1":"4565 Redlands Ave",
+      "Address2":"NR",
+      "City":"Perris",
+      "State":"CA",
+      "PostalCode":"02350",
+      "Country":"United States",
+      "Phone":"abccv",
+      "Email":"",
+      "ContactName":""
+   },
+   "OrderDestination":{
+      "CompanyName":"John Tonelli",
+      "Address1":"50 Brenton Rd",
+      "Address2":"NR",
+      "City":"NEWPORT",
+      "State":"RI",
+      "PostalCode":"02350",
+      "Country":"United States",
+      "Phone":"qwer",
+      "Email":"",
+      "ContactName":""
+   },
+   "BillTo":{
+      "CompanyName":"Home Depot",
+      "Address1":"2455 Paces Ferry Rd. Nw",
+      "Address2":"",
+      "City":"Atlanta",
+      "State":"GA",
+      "PostalCode":"30339",
+      "Country":"United States",
+      "Phone":"abcd 123456",
+      "Email":"",
+      "ContactName":""
+   },
+   "OrderAgent":{
+      "CompanyName":"NR",
+      "Address1":"20 Forge Parkway",
+      "Address2":"",
+      "City":"Franklin",
+      "PostalCode":"02038",
+      "State":"MA",
+      "Country":"United States."
+   },
+   "Items":[
+      {
+         "SkuName":"1003897288",
+         "SkuDescription":"ASSEMBLED 30X34.5X24 IN. BASE KITCHE",
+         "TotalWeight":1.0,
+         "WeightUOM":"lb",
+         "ItemQuantity":1,
+         "ItemWeight":0,
+         "PackageType":"",
+         "PackageWeight":0,
+         "PackageQuantity":1,
+         "DangerousGoods":0,
+         "FreightClass":"",
+         "NMFC":"",
+         "MaxTemp":"",
+         "MinTemp":"",
+         "OnHandlingUnit":[
+            {
+               "pyID":"DPB002993279"
+            }
+         ],
+         "DIMS":{
+            "Length":"24",
+            "Width":"69.199",
+            "Height":"34.5",
+            "UOM":"Inch"
+         }
+      },
+      {
+         "SkuName":"1003897288",
+         "SkuDescription":"ASSEMBLED 30X34.5X24 IN. BASE KITCHE",
+         "TotalWeight":1.0,
+         "WeightUOM":"lb",
+         "ItemQuantity":1,
+         "ItemWeight":0,
+         "PackageType":"",
+         "PackageWeight":0,
+         "PackageQuantity":1,
+         "DangerousGoods":0,
+         "FreightClass":"",
+         "NMFC":"",
+         "MaxTemp":"",
+         "MinTemp":"",
+         "OnHandlingUnit":[
+            {
+               "pyID":"DPB002993277"
+            }
+         ],
+         "DIMS":{
+            "Length":"24",
+            "Width":"69.199",
+            "Height":"34.5",
+            "UOM":"Inch"
+         }
+      }
+   ],
+   "HandlingUnit":[
+      {
+         "HandlingUnitType":"Pallet",
+         "HandlingUnitQuantity":1,
+         "HandlingUnitClientID":"DPB002993277",
+         "FreightClass":"",
+         "TotalWeight":44,
+         "TareWeight":1.0,
+         "DIMS":{
+            "Length":"",
+            "Width":"",
+            "Height":"",
+            "UOM":""
+         }
+      },
+      {
+         "HandlingUnitType":"Pallet",
+         "HandlingUnitQuantity":1,
+         "HandlingUnitClientID":"DPB002993279",
+         "FreightClass":"",
+         "TotalWeight":44,
+         "TareWeight":1.0,
+         "DIMS":{
+            "Length":"",
+            "Width":"",
+            "Height":"",
+            "UOM":""
+         }
+      }
+   ],
+   "PickupRequestTWStart":"12/03/24 1:00 PM",
+   "PickupRequestTWEnd":"12/03/24 1:00 PM",
+   "PickupGuaranteed":"",
+   "DeliverByTWStart":"12/03/24 1:00 PM",
+   "DeliverByTWEnd":"12/03/24 1:00 PM",
+   "DeliveryGuaranteed":"false",
+   "InboundCarrier":{
+      "TradingPartnerID":"037be56c-fb89-4cbb-a4e0-4d196b7b52a9",
+      "SCAC":"RDWY",
+      "TrackingNumber":"6020775720",
+      "BOL":"6020775720",
+      "ShipDate":"20231005T120000.000 GMT"
+   }
+}

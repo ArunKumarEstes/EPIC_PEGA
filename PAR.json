@@ -1,0 +1,114 @@
+{
+   "CreatedBy":"????",
+   "Account":"PyGuid",
+   "RequestingTradingPartnerID":"dd1a754a-01e9-4b5e-ad31-ce14c9d65e62",
+   "AssignedTradingPartnerID":"pMrEpO2ysOuRIbHr",
+   "CaseType":"PickupAndRelease",
+   "ServiceLevel":"Basic",
+   "Equipment":"Trailer",
+   "Mode":"Truckload",
+   "PaymentTerm":"Inbound Prepaid",
+   "HotPriority":"false",
+   "PickupNotes":"",
+   "DeliveryNotes":"",
+   "OrderRefs":{
+      "BOL":"2S105876500869877895AAE",
+      "TrackingNumber":"5219760AA5EE",
+      "InvoiceNumber":"525976AAEE",
+      "PickupNumber":"",
+      "DeliveryNumber":"",
+      "PONumber":"03248463",
+      "SONumber":""
+   },
+   "OrderOrigin":{
+      "CompanyName":"W562RM-75507-W0MC ARMY GENERAL SUPPLY DLA DISTRIBUTION RED RIVER",
+      "Address1":"DLA DISTRIBUTION RED RIVER HIGHWAY 82 WEST",
+      "Address2":"",
+      "City":"TEXARKANA",
+      "State":"TX",
+      "PostalCode":"75507",
+      "Country":"United States",
+      "Phone":"904-727-2646",
+      "Email":"",
+      "ContactName":"CROWLEY Logistics"
+   },
+   "OrderDestination":{
+      "CompanyName":"SW3100-17055-DLA DISTRIBUTION SUSQUEHANNA WEST",
+      "Address1":"5450 CARLISLE PIKE",
+      "Address2":"",
+      "City":"MECHANICSBURG",
+      "State":"PA",
+      "PostalCode":"17055",
+      "Country":"USA",
+      "Phone":"904-727-2646",
+      "Email":"",
+      "ContactName":"CROWLEY Logistics"
+   },
+   "BillTo":{
+      "CompanyName":"Crowley Maritime",
+      "Address1":"8200 NATIONS WAY",
+      "Address2":"",
+      "City":"JACKSONVILLE",
+      "State":"FL",
+      "PostalCode":"32256",
+      "Country":"USA",
+      "Phone":"",
+      "Email":"",
+      "ContactName":""
+   },
+   "OrderAgent":{
+      "CompanyName":"Estes Columbus",
+      "Address1":"1553 Frank Rd",
+      "Address2":"",
+      "City":"Grand Praire",
+      "PostalCode":"75050",
+      "State":"TX",
+      "Country":"United States"
+   },
+   "Items":[
+      {
+         "SkuName":"WHEEL ASSEMBLY,PNEU",
+         "SkuDescription":"WHEEL ASSEMBLY,PNEU-Desc",
+         "TotalWeight":930,
+         "WeightUOM":"lb",
+         "ItemQuantity":1,
+         "ItemWeight":"",
+         "PackageType":"",
+         "PackageWeight":"",
+         "PackageQuantity":"",
+         "DangerousGoods":"",
+         "HazmatClass":"",
+         "FreightClass":"",
+         "NMFC":"",
+         "MaxTemp":"",
+         "MinTemp":"",
+         "OnHandlingUnit":[
+            {
+               "pyID":"W56HZW3320021VXXX"
+            }
+         ]
+      }
+   ],
+   "HandlingUnit":[
+      {
+         "HandlingUnitType":"Pallet",
+         "HandlingUnitQuantity":1,
+         "HandlingUnitClientID":"W56HZW3320021VXXX",
+         "FreightClass":"",
+         "TotalWeight":930,
+         "TareWeight":"",
+         "DIMS":{
+            "Length":"50",
+           "Width":"48",
+            "Height":"48",
+            "UOM":""
+         }
+      }
+   ],
+"PickupRequestTWStart":"20240219T120000.000 GMT",
+"PickupRequestTWEnd":"20240219T120000.000 GMT",
+"PickupGuaranteed":"false",
+"DeliverByTWStart":"20240218T120000.000 GMT",
+"DeliverByTWEnd":"20240225T120000.000 GMT",
+"DeliveryGuaranteed":"false" 
+}

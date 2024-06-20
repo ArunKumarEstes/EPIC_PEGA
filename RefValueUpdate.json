@@ -1,0 +1,24 @@
+{
+  "UpdateType" : "RefValueUpdate",
+  "RequestingTradingPartnerID" : "dd1a754a-01e9-4b5e-ad31-ce14c9d65e62",
+  "AssignedTradingPartnerID" : "98caa74d-1bd2-440e-b6c2-3f2e0c00b0f9",
+  "CaseID" : "PAR-8423",
+  "OrderRefs" : {
+    "BOL" : "",
+    "TrackingNumber" : "",
+    "PickupNumber" : "",
+    "DeliveryNumber" : "",
+    "InvoiceNumber" : "",
+    "PONumber" : ""
+  },
+  "StatusEvent" : "Received",
+  "StatusEventDateTime" : "20240617T115708.000-05:00",  
+  "LocationCity" : "DALLAS",
+  "LocationState" : "TX",
+  "Long" : "",
+  "Lat" : "",
+  "StatusEventDetail" : "Normal",
+  "OutboundCarrier" : "",
+  "OutboundCarrierTracking" : "122-456789",
+  "Status_Event" : "Released"
+}
